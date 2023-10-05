@@ -1,14 +1,17 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2023-DT261)](https://api.reuse.software/info/github.com/SAP-samples/teched2023-DT261)
 
-# Session ID - Session Title
+# DT261 - Hassle-free SAP Note Implementation for SAP S/4HANA on-premise and private cloud
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2022 session called 'DT261 - Hassle-free SAP Note Implementation for SAP S/4HANA on-premise and private cloud'.  
 
 ## Overview
 
-This session introduces attendees to...
+Note assistant tool is now enhanced with features that enable us to schedule jobs to identify, implement, and view the activity summary of SAP Notes. To support these functionalities, you now have three new enhancements, which are batch identification, batch implementation, and batch dashboard. 
+
+In this exercise, we will be creating batch jobs in SNOTE to identify and implement SAP Notes and view the results. We will also be using the Note Analyzer functionality to analyze a set of SAP Notes from an XML file provided as an attachment to an SAP Note. We will then be setting up a batch job to implement the necessary SAP Notes as per the analyser results.
+
 
 ## Requirements
 
