@@ -1,6 +1,6 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2023-DT261)](https://api.reuse.software/info/github.com/SAP-samples/teched2023-DT261)
 
-# DT261 - Hassle-free SAP Note Implementation for SAP S/4HANA on-premise and private cloud
+# DT261 - Ease SAP Notes Implementation in SAP S/4HANA on-premise and private cloud
 
 ## Description
 
