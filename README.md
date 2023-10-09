@@ -37,13 +37,14 @@ Password: dryrun
 
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
+- [Login to System](exercises/ex0/)
+- [Batch Identification](exercises/ex1/)
+    - [Create a Job to Identify Relevant SAP Notes](exercises/ex1#create-a-job-to-identify-relevant-sap-notes)
+    - [Implement the identified SAP Notes in a batch Job](exercises/ex1#implement-the-identified-sap-notes-in-a-batch-job)
+    - [Viewing the Implementation Results](exercises/ex1##viewing-the-implementation-results)
+- [Batch Implementation](exercises/ex2/)
+    - [Adding SAP Notes for pre-requisite Identification and Note implementation in Batch Job](exercises/ex2#exercise-21-sub-exercise-1-description)
+    - [Viewing the Implementation Results](exercises/ex2#exercise-22-sub-exercise-2-description)
 
   
 **OR** Link to the Tutorial Navigator for example...
