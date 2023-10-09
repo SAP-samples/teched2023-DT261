@@ -41,7 +41,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 - [Batch Identification](exercises/ex1/)
     - [Create a Job to Identify Relevant SAP Notes](exercises/ex1#create-a-job-to-identify-relevant-sap-notes)
     - [Implement the identified SAP Notes in a batch Job](exercises/ex1#implement-the-identified-sap-notes-in-a-batch-job)
-    - [Viewing the Implementation Results](exercises/ex1##viewing-the-implementation-results)
+    - [Viewing the Implementation Results](exercises/ex1#viewing-the-implementation-results)
 - [Batch Implementation](exercises/ex2/)
     - [Adding SAP Notes for pre-requisite Identification and Note implementation in Batch Job](exercises/ex2#exercise-21-sub-exercise-1-description)
     - [Viewing the Implementation Results](exercises/ex2#exercise-22-sub-exercise-2-description)
