@@ -55,12 +55,12 @@ In the previous steps, you have scheduled a job which will identify SAP Notes ba
   	 ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/8f2b2df9-7fe5-4f89-9d76-5a9abd300448)
 
  
-3.	In case the job has not completed yet, wait for the job to be completed. You can use the refresh button at the top to update the job status. Once the job is completed, on the rightmost column, you will find a button ‘Confirm pre-requisites’ against the Run ID. You may have to expand the tree to view the Run ID details. 
+2.	In case the job has not completed yet, wait for the job to be completed. You can use the refresh button at the top to update the job status. Once the job is completed, on the rightmost column, you will find a button ‘Confirm pre-requisites’ against the Run ID. You may have to expand the tree to view the Run ID details. 
 
   	 ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/826a5192-f9d0-44ff-9c58-fc99a3c7a3c1)
  
 
-5.	You will be navigated to another screen which displays the list of identified SAP Notes along with its pre-requisite SAP Notes in a tree format. 
+3.	You will be navigated to another screen which displays the list of identified SAP Notes along with its pre-requisite SAP Notes in a tree format. 
 
     Some of the SAP Notes which are not yet downloaded will have the status as ‘Undefined Implementation State’. This is fine and the status will be calculated once the SAP Notes are downloaded.
 
@@ -72,39 +72,39 @@ In the previous steps, you have scheduled a job which will identify SAP Notes ba
 
  
 
-7.	In a pop-up, you will be prompted to provide a transport request. Use the ‘Create Request’ option to create a new transport request.
+4.	In a pop-up, you will be prompted to provide a transport request. Use the ‘Create Request’ option to create a new transport request.
 
   	  ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/b87b8cc1-3a01-4f23-98f9-5cffb46933d8)
 
 
-9.	Provide Short Description as ‘Batch_Impl_<your laptop/desk number>’. Click on the save button. This will create a new transport request.
+5.	Provide Short Description as ‘Batch_Impl_<your laptop/desk number>’. Click on the save button. This will create a new transport request.
 
   	  ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/1f8f27f7-c5de-476b-93ad-e1cc232d8eb2)
 
 
-11.	The newly created transport request will be filled now. Choose the ‘Ok’ button to continue.
+6.	The newly created transport request will be filled now. Choose the ‘Ok’ button to continue.
   
     ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/39ed545b-e2c1-444d-8792-2b3104df9523)
 
 
-12.	You have just created a Note Implementation job using the results of the Note Identification job!
+7.	You have just created a Note Implementation job using the results of the Note Identification job!
 
     A pop-up confirming the action with the job details will be shown. Click on the ‘Go to Batch Dashboard’ button in the pop-up. This will navigate to the batch dashboard where you will find the status and results of the job that you have scheduled.
 
    	  ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/495718dd-1e64-4d29-9bb5-b91497e2d79c)
 
 
-14.	Once the job is completed (if necessary, use the ‘refresh’ button to update the status in the Batch Dashboard), you can now continue with the next exercise – [Viewing the Implementation Results](exercises/ex1#viewing-the-implementation-results).
+8.	The job can take 2-3 minutes to complete. You can use the ‘refresh’ button to update the status in the Batch Dashboard. Once the job is complete , you can continue with the next exercise – [Viewing the Implementation Results](exercises/ex1#viewing-the-implementation-results).
  
 ## Exercise 1.3: Viewing the Implementation Results
 In the previous steps, you have scheduled a job which will implement SAP Notes based on the results of note identification. Now, we will view the implementation results.
 
 1.	At the end of the previous step, you would have navigated to the ‘SAP Notes Batch Identification/Implementation Dashboard’. You will find the job details with a description matching what you have provided in the previous step. Locate the Run for Schedule type ‘Note implementation’. You will find a button ‘Implementation Result’ corresponding to this Run. Click on the button.
 
-  	  ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/9142ba0a-227a-4ee5-8369-3da1b6b8220c)
+  	  ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/90e150e2-c8a4-4078-8a35-0e0f359ec299)
 
 
-3.	You would have navigated to the ‘SAP Note Batch Implementation Results’ screen. 
+2.	You would have navigated to the ‘SAP Note Batch Implementation Results’ screen. 
 
     This screen shows all the SAP Notes processed by the batch job. You will find the implementation statuses of the SAP Notes and information/error messages, if any, against each SAP Note.
 
@@ -116,17 +116,17 @@ In the previous steps, you have scheduled a job which will implement SAP Notes b
 
  
 
-5.	Observe the results. Once done close the pop-up for Note Batch Implementation Logs
+3.	Observe the results. Once done close the pop-up for Note Batch Implementation Logs
 
   	![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/f3e17cb7-ac3a-490e-85f2-1849a6fe46f5)
 
 
-7.	Keeping the checkbox for the same SAP Note selected, click on button ‘Object List’. This will show the list of objects processed by the SAP Note along with its simulation results.
+4.	Keeping the checkbox for the same SAP Note selected, click on button ‘Object List’. This will show the list of objects processed by the SAP Note along with its simulation results.
 
   	![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/41e93777-7c3d-4517-99aa-d1f9de8d3d87)
 
 
-9.	Observe the results. Once done close the pop-up for SAP Note Batch Implementation Results.
+5.	Observe the results. Once done close the pop-up for SAP Note Batch Implementation Results.
 
   	![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/d727ed96-cef7-429b-b354-f0869ae27d9a)
 
