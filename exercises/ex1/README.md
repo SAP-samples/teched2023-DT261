@@ -18,19 +18,19 @@ This option allows you to search and identify all SAP Notes based on SAP Notes t
 4.	You would have navigated to ‘Schedule SAP Notes Batch Identification’ screen. This is where you would need to provide the search criteria, date selection, and schedule a job for immediate or future run. 
     Please provide the below details:
   	
-        Select radio button ‘Custom Search’.
+    - Select radio button _‘Custom Search’_.
 
-  	    Search Term: *
+  	- Search Term: _*_
 
-  	    Search Range: All
+    - Search Range: _All_
 
-  	    Application component: BC-UPG-DTM-TLA
+  	- Application component: _BC-UPG-DTM-TLA_
 
-  	    Date Range: Free Date Range: from 25.05.2023 to 10.09.2023
+  	- Date Range: Free Date Range: from _25.05.2023_ to _10.09.2023_
 
-  	    Job/Schedule Description: Batch_Identification_<your laptop/desk number>
+  	- Job/Schedule Description: _Batch_Identification_<your laptop/desk number>_
 
-  	Select radio button ‘Schedule Immediately’.
+  	- Select radio button _‘Schedule Immediately’_.
 
     Once all of this is filled, click on the button ‘Confirm Schedule’ to schedule the batch job, which will identify SAP Notes (along with its required pre-requisite SAP Notes) matching this search criteria valid for this SAP system.
 
@@ -133,5 +133,5 @@ In the previous steps, you have scheduled a job which will implement SAP Notes b
 
 You have now completed the exercise for Batch Identification. 
 
-Please proceed with the next exercise – [Batch Implementation](../ex2/README.md).
+Please proceed with the next exercise – [Exercise 2: Batch Implementation](../ex2/README.md).
 
