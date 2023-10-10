@@ -22,13 +22,13 @@ In this exercise, you will be creating the connection to the test system in SAP 
     Instance: 00	
     System ID: TE1
 
-    ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/46cbfa28-2786-4947-b266-5d24cac298f3)
+    ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/8aae3417-484f-432c-a37e-733de78e1322)
 
  
 
 5.	The added system will now appear in the list of systems:
    
-    ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/5cece1d1-7b7b-43e5-8992-9cf7867cb966)
+    ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/82d89922-1e2f-4df9-84c6-2e89fa8db59a)
 
  
 
@@ -37,7 +37,7 @@ In this exercise, you will be creating the connection to the test system in SAP 
     User: DRYRUN
     Password: dryrun
 
-    ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/3a6381fc-8874-419c-9a9b-a98717571af5)
+    ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/355002dd-db57-45e0-8b7a-a5a62bfa4c9b)
 
  
 You will be logged into the system now.
