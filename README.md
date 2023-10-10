@@ -13,43 +13,45 @@ Note assistant tool is now enhanced with features that enable us to schedule job
 In this exercise, we will be creating batch jobs in SNOTE to identify and implement SAP Notes and view the results. We will also be using the Note Analyzer functionality to analyze a set of SAP Notes from an XML file provided as an attachment to an SAP Note. We will then be setting up a batch job to implement the necessary SAP Notes as per the analyser results.
 
 
-## Requirements
-
-The requirements to follow the exercises in this repository are...
 
 ## System and User Details
 
-Server: nw757.tdc.sap.com
+System Details:
 
-Instance: 00	
+    Server: nw757.tdc.sap.com
 
-System ID: TE1
+    Instance: 00	
+
+    System ID: TE1
 
 Login details:
 
-Client : 001
+    Client : 001
 
-User: DRYRUN
+    User: DRYRUN
 
-Password: dryrun
+    Password: dryrun
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
-
 - [Login to System](exercises/ex0/)
-- [Batch Identification](exercises/ex1/)
-    - [Create a Job to Identify Relevant SAP Notes](exercises/ex1#create-a-job-to-identify-relevant-sap-notes)
-    - [Implement the identified SAP Notes in a batch Job](exercises/ex1#implement-the-identified-sap-notes-in-a-batch-job)
-    - [Viewing the Implementation Results](exercises/ex1#viewing-the-implementation-results)
-- [Batch Implementation](exercises/ex2/)
-    - [Adding SAP Notes for pre-requisite Identification and Note implementation in Batch Job](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Viewing the Implementation Results](exercises/ex2#exercise-22-sub-exercise-2-description)
+- [Exercise 1: Batch Identification](exercises/ex1/)
+    - [Exercise 1.1: Create a Job to Identify Relevant SAP Notes](exercises/ex1#exercise-11-create-a-job-to-identify-relevant-sap-notes)
+    - [Exercise 1.2: Implement the identified SAP Notes in a batch Job](exercises/ex1#exercise-12-implement-the-identified-sap-notes-in-a-batch-job)
+    - [Exercise 1.3: Viewing the Implementation Results](exercises/ex1#exercise-13-viewing-the-implementation-results)
+- [Exercise 2: Batch Implementation](exercises/ex2/)
+    - [Exercise 2.1: Adding SAP Notes for pre-requisite Identification and Note implementation in Batch Job](exercises/ex2#exercise-21-adding-sap-notes-for-pre-requisite-identification-and-note-implementation-in-batch-job)
+    - [Exercise 2.2: Viewing the Implementation Results](exercises/ex2#exercise-22-viewing-the-implementation-results)
+- [Exercise 3: SAP Note Analysis and Batch Implementation using Note Analyzer](exercises/ex3%20/README.md#exercise-3-sap-note-analysis-and-batch-implementation-using-note-analyzer)
+    - [Exercise 3.1: Launch Note Analyzer](exercises/ex3%20/README.md#exercise-31-launch-note-analyzer)
+    - [Exercise 3.2: Analyze SAP Note](exercises/ex3%20/README.md#exercise-32-analyze-sap-note)
+        - [Exercise 3.2.1: Download XML File from Support Launch Pad](exercises/ex3%20/README.md#exercise-321-download-xml-file-from-support-launch-pad)
+        - [Exercise 3.2.2: Upload the XML](exercises/ex3%20/README.md#exercise-322-upload-the-xml)
+        - [Exercise 3.2.3: Analyze the Uploaded XML](exercises/ex3%20/README.md#exercise-323-analyze-the-uploaded-xml)
+    - [Exercise 3.3: Conclusion](exercises/ex3%20/README.md#exercise-33-conclusion)       
 
-  
-**OR** Link to the Tutorial Navigator for example...
 
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
+Start the exercises [here](exercises/ex0/).
 
 
 **IMPORTANT**
