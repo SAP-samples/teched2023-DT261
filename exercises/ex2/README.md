@@ -180,5 +180,5 @@ In the previous steps, you have scheduled a job which will implement SAP Notes. 
 
 Awesome! You have now completed the exercise for Batch Implementation. 
 
-Continue to - [SAP Note Analysis and Batch Implementation using Note Analyzer](../ex3%20#sap-note-analysis-and-batch-implementation-using-note-analyzer)
-Continue to - [SAP Note Analysis and Batch Implementation using Note Analyzer](../ex3/README.md)   
+Please proceed with the next exercise - [SAP Note Analysis and Batch Implementation using Note Analyzer](../ex3%20#sap-note-analysis-and-batch-implementation-using-note-analyzer)
+
