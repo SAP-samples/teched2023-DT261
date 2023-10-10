@@ -1,7 +1,7 @@
-# Batch Identification 
+# Exercise 1: Batch Identification 
 In this exercise you will schedule a background job which will identify all SAP Notes based on a specific search criterion. You will then set up another job which will implement some of the identified SAP Notes. Finally, you will be viewing the results of the implementation.
 
-## Create a Job to Identify Relevant SAP Notes
+## Exercise 1.1: Create a Job to Identify Relevant SAP Notes
 
 This option allows you to search and identify all SAP Notes based on SAP Notes type and its released date. Using this option, you can also either schedule a job immediately or select later dates for scheduled implementation. Please follow the below steps to schedule a job to identify SAP Notes.
 
@@ -17,13 +17,20 @@ This option allows you to search and identify all SAP Notes based on SAP Notes t
 
 4.	You would have navigated to ‘Schedule SAP Notes Batch Identification’ screen. This is where you would need to provide the search criteria, date selection, and schedule a job for immediate or future run. 
     Please provide the below details:
-    Select radio button ‘Custom Search’.
-    Search Term: *
-    Search Range: All
-    Application component: BC-UPG-DTM-TLA
-    Date Range: Free Date Range: from 25.05.2023to 10.09.2023
-    Job/Schedule Description: Batch_Identification_<your laptop/desk number>
-    Select radio button ‘Schedule Immediately’.
+  	
+        Select radio button ‘Custom Search’.
+
+  	    Search Term: *
+
+  	    Search Range: All
+
+  	    Application component: BC-UPG-DTM-TLA
+
+  	    Date Range: Free Date Range: from 25.05.2023 to 10.09.2023
+
+  	    Job/Schedule Description: Batch_Identification_<your laptop/desk number>
+
+  	Select radio button ‘Schedule Immediately’.
 
     Once all of this is filled, click on the button ‘Confirm Schedule’ to schedule the batch job, which will identify SAP Notes (along with its required pre-requisite SAP Notes) matching this search criteria valid for this SAP system.
 
@@ -37,10 +44,10 @@ This option allows you to search and identify all SAP Notes based on SAP Notes t
   	 ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/33b78ad8-a899-41f8-b956-0f645e7792d8)
  
 
-You can now continue with the next exercise – Implement the identified SAP Notes in a batch job.
+You can now continue with the next exercise – [Implement the identified SAP Notes in a batch Job](exercises/ex1#implement-the-identified-sap-notes-in-a-batch-job).
  
 
-## Implement the identified SAP Notes in a batch Job
+## Exercise 1.2: Implement the identified SAP Notes in a batch Job
 
 In the previous steps, you have scheduled a job which will identify SAP Notes based on a certain search criterion. Now, we will view the results and take the next steps to set up a batch job for Note implementation.  
 1.	At the end of the previous step, you would have navigated to the ‘SAP Notes Batch Identification/Implementation Dashboard’. You will find the job details with a description matching what you have provided in the previous step.
@@ -87,9 +94,9 @@ In the previous steps, you have scheduled a job which will identify SAP Notes ba
    	  ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/495718dd-1e64-4d29-9bb5-b91497e2d79c)
 
 
-14.	Once the job is completed (if necessary, use the ‘refresh’ button to update the status in the Batch Dashboard), you can now continue with the next exercise – Displaying the Implementation Results.
+14.	Once the job is completed (if necessary, use the ‘refresh’ button to update the status in the Batch Dashboard), you can now continue with the next exercise – [Viewing the Implementation Results](exercises/ex1#viewing-the-implementation-results).
  
-## Viewing the Implementation Results
+## Exercise 1.3: Viewing the Implementation Results
 In the previous steps, you have scheduled a job which will implement SAP Notes based on the results of note identification. Now, we will view the implementation results.
 
 1.	At the end of the previous step, you would have navigated to the ‘SAP Notes Batch Identification/Implementation Dashboard’. You will find the job details with a description matching what you have provided in the previous step. Locate the Run for Schedule type ‘Note implementation’. You will find a button ‘Implementation Result’ corresponding to this Run. Click on the button.
