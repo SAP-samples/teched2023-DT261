@@ -24,7 +24,7 @@ In this exercise, you will be creating the connection to the test system in SAP 
 
 4.  You would have received the system details. Fill the details into the Server, Instance and System ID fields.    
 
-   ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/8aae3417-484f-432c-a37e-733de78e1322)
+    ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/8aae3417-484f-432c-a37e-733de78e1322)
 
  
 
