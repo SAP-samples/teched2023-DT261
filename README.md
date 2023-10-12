@@ -28,9 +28,9 @@ Login details:
 
     Client : 001
 
-    User: DRYRUN
+    User: HANDS_ON
 
-    Password: dryrun
+    Password: hands_on@123
 
 ## Exercises
 
