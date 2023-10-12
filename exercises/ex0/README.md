@@ -41,3 +41,5 @@ In this exercise, you will be creating the connection to the test system in SAP 
 
  
 You will be logged into the system now.
+
+Please proceed with the first exercise – [Exercise 2: Batch Identification](../ex1/README.md).
