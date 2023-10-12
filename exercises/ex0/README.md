@@ -34,12 +34,16 @@ In this exercise, you will be creating the connection to the test system in SAP 
 
  
 
-6.	Select the system and click on ‘Log On’. The login screen should appear. Provide the client and user details as provided in ‘System and User’ section of this document.
-    Client : 001
-    User: DRYRUN
-    Password: dryrun
+6.	Select the system and click on ‘Log On’. The login screen should appear. Provide the client and user details as below:
 
-    ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/355002dd-db57-45e0-8b7a-a5a62bfa4c9b)
+   >Client : 001
+>
+   >User: HANDS_ON
+>
+   >Password: hands_on@123
+
+
+   ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/355002dd-db57-45e0-8b7a-a5a62bfa4c9b)
 
  
 You will be logged into the system now.
