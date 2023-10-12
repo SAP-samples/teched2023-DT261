@@ -17,12 +17,14 @@ In this exercise, you will be creating the connection to the test system in SAP 
 
  
 
-4.	Fill the details as provided in the ‘System and User’ section of this document:
+<!-- 4.	Fill the details as provided in the ‘System and User’ section of this document:
     Server: nw757.tdc.sap.com
     Instance: 00	
-    System ID: TE1
+    System ID: TE1  --> 
 
-    ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/8aae3417-484f-432c-a37e-733de78e1322)
+4.  You would have received the system details. Fill the details into the Server, Instance and System ID fields.    
+
+   ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/8aae3417-484f-432c-a37e-733de78e1322)
 
  
 
