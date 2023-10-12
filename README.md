@@ -14,7 +14,7 @@ In this exercise, we will be creating batch jobs in SNOTE to identify and implem
 
 
 
-## System and User Details
+<!-- ## System and User Details
 
 System Details:
 
@@ -30,7 +30,7 @@ Login details:
 
     User: HANDS_ON
 
-    Password: hands_on@123
+    Password: hands_on@123  -->
 
 ## Exercises
 
