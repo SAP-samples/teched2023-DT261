@@ -15,7 +15,7 @@ This option allows you to search and identify all SAP Notes based on SAP Notes t
   	![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/64177b57-8cd9-4aa1-94bd-32037c47315a)
 
 
-4.	You would have navigated to ‘Schedule SAP Notes Batch Identification’ screen. This is where you would need to provide the search criteria, date selection, and schedule a job for immediate or future run. 
+3.	You would have navigated to ‘Schedule SAP Notes Batch Identification’ screen. This is where you would need to provide the search criteria, date selection, and schedule a job for immediate or future run. 
     Please provide the below details:
   	
     - Select radio button _‘Custom Search’_.
@@ -37,7 +37,7 @@ This option allows you to search and identify all SAP Notes based on SAP Notes t
   	 ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/80a651e5-8142-4f07-970e-d7784dbc2937)
 
  
-6.	Well done, you just created your first Batch Identification job!
+5.	Well done, you just created your first Batch Identification job!
 
     A pop-up confirming the action with the job details will be shown. Click on the ‘Go to Batch Dashboard’ button in the pop-up. This will navigate to the batch dashboard where you will find the status and results of the job that you have scheduled.
 
