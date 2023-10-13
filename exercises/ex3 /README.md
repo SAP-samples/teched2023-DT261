@@ -100,15 +100,15 @@ At the beginning of this activity, you will make the SNOTE up to date.
 
     Now the implementation of this SAP Note has started along with its pre-requisites.
 
-3.	If Asked, Choose the Transport Request TE1K900024 by clicking on the button ‘Own Request’. If you don’t see the below pop up proceed to step 5.
+<!--3.	If Asked, Choose the Transport Request TE1K900024 by clicking on the button ‘Own Request’. If you don’t see the below pop up proceed to step 5.
 
     ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/6e18b991-7f9f-409d-8766-7ba2bdd38055)
 
 4.	Once the Transport Request is selected, click on Continue Button.
 
-    ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/983bd44c-eec4-410f-8525-33d005d92383)
+    ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/983bd44c-eec4-410f-8525-33d005d92383)  -->
 
-5.	Now you will be seeing the object list. Click on the Next Button to finish the SAP Note Implementation 
+3.	Now you will be seeing the object list. Click on the Next Button to finish the SAP Note Implementation 
 
     ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/69580e9d-33a9-4c58-bdbb-8c3280dfe62a)
 
