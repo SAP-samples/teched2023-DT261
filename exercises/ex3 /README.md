@@ -28,17 +28,26 @@ By the end of this Exercise, you will know how to launch Note Analyzer, from whe
 
     ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/10b8adf2-b1d8-413f-90a0-567e08976bf1)
 
-2.	Click on 'Attachments' Tab.
+    If you are unable to access the above link, please follow Step 5. 
+
+3.	Click on 'Attachments' Tab.
 
     ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/57e6fcfd-5805-4756-a1a9-1729c08e6440)
 
-3.	Click on file TECHED_HANDS_ON_DEMO.XML
+4.	Click on file TECHED_HANDS_ON_DEMO.XML
 
     ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/26da7ef7-03ce-4943-9c3a-506d9a1e56fc)
 
-    Your files will get downloaded and get saved in the Downloads folder of the system.
+    Your file will get downloaded and get saved in the Downloads folder of the system.
 
+    You can ignore steps 5.  
 
+5.  On the left of this screen, you will find a file with the name 'TECHED_HANDS_ON_DEMO.xml'. You can click on it and find an option to download the file. Your file will get downloaded and get saved in the Downloads folder of the system. Navigate back to this screen once done.
+
+    ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/01e9b005-63c2-48c3-98b1-54bb53c76cc7)
+  
+    ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/85258792-08a9-4cee-be7f-b47d773b8d89)
+   
 
 ### Exercise 3.2.2: Upload the XML
 
@@ -201,13 +210,16 @@ Here you will get an overview of all the SAP Notes needed for the application an
      ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/5a71e3c2-ae4d-483a-8c3f-2e1bccbccb22)
 
      This SAP Note will open in [https://me.sap.com](https://me.sap.com).
+
+     >In case you are unable to access this link, you can ignore this step and proceed to next step.
+
      Here the SAP Note file is not yet downloaded to the system hence it opened in browser.
 
      ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/c13d18e0-7270-4780-a287-c04c3d100cc5)
 
-     You can now close this window and go back to Note Analyzer Screen.
+6.   You can now close the browser window and go back to Note Analyzer Screen.
 
-6.   Observe the icon Changes in Action Column. Hover over each icon to get the Tool Tip.
+7.   Observe the icon Changes in Action Column. Hover over each icon to get the Tool Tip.
      First two SAP Notes are with Action Implement ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/b56b76aa-6232-4647-9cce-86b564012d9a)
   as these are already downloaded to the System.
 
@@ -216,7 +228,7 @@ Here you will get an overview of all the SAP Notes needed for the application an
      Third SAP Note is with Action Download ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/58212ef6-659c-4896-a378-fee188341aba)
  . This action will change to implement Action once the SAP Note is downloaded to the system.
 
-7.	 Click on the Hyperlink ‘Details’ against any one SAP Note.
+8.	 Click on the Hyperlink ‘Details’ against any one SAP Note.
 
      ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/1d40fefe-d252-4b02-9c9b-e393fd9accbf)
 
@@ -226,7 +238,7 @@ Here you will get an overview of all the SAP Notes needed for the application an
 
      ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/46762bde-aeb2-4e9c-84ec-a48aae5469ac)
 
-8.	 Click on hyperlink against the SAP Note 3367975 in Valid Prerequisite column.
+9.	 Click on hyperlink against the SAP Note 3367975 in Valid Prerequisite column.
     
      ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/5cea4c91-760d-4821-8357-3bd0214fde16)
 
@@ -238,7 +250,7 @@ Here you will get an overview of all the SAP Notes needed for the application an
 
      ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/504c9bcf-6af7-4e88-a1cc-cb3f23bdba31)
 
- 9.	 Click on the ‘More info’ column button against the SAP Note 3367975.   
+10.	 Click on the ‘More info’ column button against the SAP Note 3367975.   
 
      ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/10ab8c8e-3ad3-47d0-a051-04a84ec349dc)
 
@@ -246,7 +258,7 @@ Here you will get an overview of all the SAP Notes needed for the application an
 
      ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/b3b9f86e-a857-4a09-91bc-3933d78c807e)
 
-10.	 Implement the needed SAP Notes.
+11.	 Implement the needed SAP Notes.
 
       >We can either implement the needed SAP Notes one by one in foreground by clicking on the ‘Action’ Button against the individual SAP Note, or we can implement multiple SAP Notes in background.
 
@@ -262,11 +274,11 @@ Here you will get an overview of all the SAP Notes needed for the application an
 
       ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/39d83507-3e11-410e-899f-99119299bbd3)
 
-11.	Enter the Transport Request as TE1K900024 then click ‘Ok’.
+12.	Enter the Transport Request as TE1K900024 then click ‘Ok’.
          
     ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/d9d7b32c-1756-4986-9073-050e9650260f)
 
-12.	Your Job to implement all the Valid SAP Notes has been scheduled. Click on ‘Go to Batch Dashboard’ to view the background job details.
+13.	Your Job to implement all the Valid SAP Notes has been scheduled. Click on ‘Go to Batch Dashboard’ to view the background job details.
 
     ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/8b57d554-0cc5-4782-88f0-f92b93721e8c)
 
