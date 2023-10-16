@@ -1,6 +1,7 @@
 # Exercise 3: SAP Note Analysis and Batch Implementation using Note Analyzer
 
-Note Analyzer is a tool that allows you analyse the SAP Notes provided by SAP in a file format. The tool analyse and suggests possible actions depending on the result. 
+Note Analyzer is a tool that allows you analyse the SAP Notes provided by SAP in a file format. The SAP Notes may be belonging to a certain functionality and helps you to ensure that the functionality is up-to-date in your system. The tool analyse and suggests possible actions depending on the result. 
+
 By the end of this Exercise, you will know how to launch Note Analyzer, from where to download the input XML files, how to upload the XML file and how to interpret the analysed result and take actions.
 
 ## Exercise 3.1: Launch Note Analyzer
@@ -25,7 +26,7 @@ By the end of this Exercise, you will know how to launch Note Analyzer, from whe
 
 
 
-1.  On the left of this screen, you will find a file with the name 'TECHED_HANDS_ON_DEMO.xml'. You can click on it and find an option to download the file. Your file will get downloaded and get saved in the Downloads folder of the system. Navigate back to this screen once done.
+1.  On the left of this page, you will find a file with the name 'TECHED_HANDS_ON_DEMO.xml'. You can click on it and find an option to download the file. Your file will get downloaded and get saved in the Downloads folder of the system. Navigate back to this screen once done.
 
     ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/01e9b005-63c2-48c3-98b1-54bb53c76cc7)
   
@@ -83,7 +84,7 @@ Next step is to upload the XML file.
 
     ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/4e2f6246-a916-4c5f-8267-54b76aa86112)
 
-    >The overall status of the Note Analyzer is in Red with Preparation SAP Note Check Phase, SAP Note Check Phase with status Red and Scope information with Yellow. After taking all the necessary action it become Green.
+    >The overall status of the Note Analyzer is in Red with Preparation SAP Note Check Phase, SAP Note Check Phase with status Red and Scope information with Yellow. After taking all the necessary action everything except the Scope information phase will become Green. The overall status shall also become green.
 
     Now it’s the time for the deep dive into the details of the tool. We can take the action one by one to finish the Analysis.
 
@@ -305,7 +306,7 @@ You have now completed all the actions required for the input XML.
 
     ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/80e4b1f7-b08f-488d-aecb-1f238716fa82)
 
-    You can find that the phases are now turned to **Green** along with Main Node. That means you have successfully implemented all the needed SAP Notes from this XML to make the application up to date.   
+    You can find that the phases are now turned to **Green** along with Main Node (except the Scope information phase, as explained earlier in step 2 of exercise 3.2.3). That means you have successfully implemented all the needed SAP Notes from this XML to make the application up to date.   
 
 
 **Congratulations! You have now completed all the steps for today’s session!**
