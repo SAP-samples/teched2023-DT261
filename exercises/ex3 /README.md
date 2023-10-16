@@ -21,32 +21,33 @@ By the end of this Exercise, you will know how to launch Note Analyzer, from whe
 
 ## Exercise 3.2: Analyze SAP Note
 
-### Exercise 3.2.1: Download XML File from Support Launch Pad
+### Exercise 3.2.1: Download XML File 
 
-1.	First step is to download the XML file. 
-    Go to the link [https://me.sap.com/notes/3383921](https://me.sap.com/notes/3383921).
 
-    ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/10b8adf2-b1d8-413f-90a0-567e08976bf1)
 
-    If you are unable to access the above link, please follow Step 5. 
-
-3.	Click on 'Attachments' Tab.
-
-    ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/57e6fcfd-5805-4756-a1a9-1729c08e6440)
-
-4.	Click on file TECHED_HANDS_ON_DEMO.XML
-
-    ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/26da7ef7-03ce-4943-9c3a-506d9a1e56fc)
-
-    Your file will get downloaded and get saved in the Downloads folder of the system.
-
-    You can ignore steps 5.  
-
-5.  On the left of this screen, you will find a file with the name 'TECHED_HANDS_ON_DEMO.xml'. You can click on it and find an option to download the file. Your file will get downloaded and get saved in the Downloads folder of the system. Navigate back to this screen once done.
+1.  On the left of this screen, you will find a file with the name 'TECHED_HANDS_ON_DEMO.xml'. You can click on it and find an option to download the file. Your file will get downloaded and get saved in the Downloads folder of the system. Navigate back to this screen once done.
 
     ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/01e9b005-63c2-48c3-98b1-54bb53c76cc7)
   
     ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/85258792-08a9-4cee-be7f-b47d773b8d89)
+
+    >The above steps are only for the purpose of today's hands-on session. Generally, you would be downloading the file from the SAP ONE Support Launchpad. Below are the steps to do so, but it may not be possible in today's session because of access restrictions to SAP ONE Support Launchpad.
+    > 1.	First step is to download the XML file. 
+    >Go to the link [https://me.sap.com/notes/3383921](https://me.sap.com/notes/3383921).
+    >
+    >   ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/10b8adf2-b1d8-413f-90a0-567e08976bf1)
+    >
+    >
+    >2.	Click on 'Attachments' Tab.
+    >
+    >   ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/57e6fcfd-5805-4756-a1a9-1729c08e6440)
+    >
+    >4.	Click on file TECHED_HANDS_ON_DEMO.XML
+    >
+    >   ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/26da7ef7-03ce-4943-9c3a-506d9a1e56fc)
+    >
+    >   Your file will get downloaded and get saved in the Downloads folder of the system.
+    >
    
 
 ### Exercise 3.2.2: Upload the XML
