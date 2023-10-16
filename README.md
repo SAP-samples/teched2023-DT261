@@ -45,7 +45,7 @@ Login details:
 - [Exercise 3: SAP Note Analysis and Batch Implementation using Note Analyzer](exercises/ex3%20/README.md#exercise-3-sap-note-analysis-and-batch-implementation-using-note-analyzer)
     - [Exercise 3.1: Launch Note Analyzer](exercises/ex3%20/README.md#exercise-31-launch-note-analyzer)
     - [Exercise 3.2: Analyze SAP Note](exercises/ex3%20/README.md#exercise-32-analyze-sap-note)
-        - [Exercise 3.2.1: Download XML File from Support Launch Pad](exercises/ex3%20/README.md#exercise-321-download-xml-file-from-support-launch-pad)
+        - [Exercise 3.2.1: Download XML File](exercises/ex3%20/README.md#exercise-321-download-xml-file)
         - [Exercise 3.2.2: Upload the XML](exercises/ex3%20/README.md#exercise-322-upload-the-xml)
         - [Exercise 3.2.3: Analyze the Uploaded XML](exercises/ex3%20/README.md#exercise-323-analyze-the-uploaded-xml)
     - [Exercise 3.3: Conclusion](exercises/ex3%20/README.md#exercise-33-conclusion)       
