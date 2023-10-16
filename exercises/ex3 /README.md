@@ -306,7 +306,7 @@ You have now completed all the actions required for the input XML.
 
     ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/80e4b1f7-b08f-488d-aecb-1f238716fa82)
 
-    You can find that the phases are now turned to **Green** along with Main Node (except the Scope information phase, as explained earlier in step 2 of exercise 3.2.3). That means you have successfully implemented all the needed SAP Notes from this XML to make the application up to date.   
+    You can find that the phases are now turned to **Green** along with Main Node (except the Scope information phase, as explained earlier in action 2 of exercise 3.2.3). That means you have successfully implemented all the needed SAP Notes from this XML to make the application up to date.   
 
 
 **Congratulations! You have now completed all the steps for today’s session!**
