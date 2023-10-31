@@ -4,7 +4,7 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called 'DT261 - Ease SAP Notes Implementation in SAP S/4HANA Cloud and On-Premise Software'.  
+This repository contains the material for the SAP TechEd 2023 session called 'DT261 - Ease SAP Notes Implementation in SAP S/4HANA Cloud and On-Premise Software'.  
 
 ## Overview
 
