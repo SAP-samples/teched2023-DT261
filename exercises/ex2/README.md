@@ -8,18 +8,16 @@ In this exercise, you will be implementing multiple SAP Notes in a single batch 
 ## Exercise 2.1 Adding SAP Notes for pre-requisite Identification and Note implementation in Batch Job
 
   1. Relaunch transaction SNOTE. To do this, type ‘/NSNOTE’ in the top-left section of the screen. 
- 
-     ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/c2fa14f8-1225-4e9b-8042-f7acef21856d)
+
+    
+     ![ex_01_02](EX2_1.png)
      
 
 
   2. In ‘Note Assistant – Home’ screen, navigate to the menu option ‘Batch Processing -> Batch Implementation’.
 
-     ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/6f9548d9-95f8-4535-9b3b-f827e74edd50)
+     ![ex_01_02](EX2_2.png)
 
-
-
-     
 
   3.	You would have navigated to ‘Schedule SAP Notes Batch Implementation’ screen. This is where you would need to provide the list of SAP Notes.
       Click on the multiple selection button next to ‘SAP Note Number’.
