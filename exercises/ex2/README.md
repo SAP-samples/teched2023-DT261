@@ -22,7 +22,7 @@ In this exercise, you will be implementing multiple SAP Notes in a single batch 
   3.	You would have navigated to ‘Schedule SAP Notes Batch Implementation’ screen. This is where you would need to provide the list of SAP Notes.
       Click on the multiple selection button next to ‘SAP Note Number’.
 
-        ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/592cab02-c05e-4381-8050-b50a948ba817)
+         ![ex_01_02](EX2_3.png)
 
 
      
@@ -34,37 +34,37 @@ In this exercise, you will be implementing multiple SAP Notes in a single batch 
 
      Click on ‘Copy (F8)’.
 
-     ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/c59b6793-f4aa-4c47-930d-cc6ce385f752)
+     ![ex_01_02](EX2_4.png)
      
 
 
 5.	Click on ‘Add SAP Notes’.
 
-      ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/458de81c-df88-444d-ad0a-5602714819be)
+      ![ex_01_02](EX2_5.png)
 
    
 
 6.  The Notes should now appear in the bottom section of the screen. A status of green or yellow traffic lights indicate that the SAP Note might be possible to be implemented in a batch job. 
 
-      ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/61577fba-1bd9-4098-a8bc-2e09d7350600)
+      ![ex_01_02](EX2_6.png)
 
      
 
 7.	These input SAP Notes may have pre-requisite SAP Notes which also needs to be implemented together with these input SAP Notes. Choose ‘Identify Prerequisites’ to identify all such pre-requisite SAP Notes.
 
-     ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/fa9a7ca1-ad6c-46fb-81ac-043d8bcec62d)
+     ![ex_01_02](EX2_7.png)
 
     
 
 8.	You will be navigated to a new screen which shows all the pre-requisite SAP Notes for every input SAP Note.
 
-     ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/9d2cb3d3-dc80-4082-a9a4-7af8a16f9e5c)
+     ![ex_01_02](EX2_8.PNG)
 
    
 
 9.	Now we will schedule a batch job to download and implement all the SAP Notes. Choose ‘Download and Implement’ button for this.
     
-    ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/ff16ad3d-ce78-4eae-a66a-08766e68cf12)
+    ![ex_01_02](EX2_9.png)
 
     
 
@@ -73,13 +73,13 @@ In this exercise, you will be implementing multiple SAP Notes in a single batch 
     >Hint:
     >
     >You can use the small button next to the Transport Request field to find the previous transport request.
-    >![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/9140e83a-6796-4489-ae82-7e62d0f33070)
+    >![ex_01_02](EX2_10_1.PNG)
     >
     >In the screen that opens, click on 'Execute (F8)'
-    >![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/febb5591-a138-47c0-94e3-c844badc7276)
+    >![ex_01_02](EX2_10_2.png)
     >
     >In the screen that opens, select the transport request that you created earlier.
-    >![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/327d978c-f965-4e5d-907f-d859178f058b)
+    >![ex_01_02](EX2_10_3.PNG)
     >
     >This transfers the transport request number to the relevant field.
 
@@ -87,19 +87,19 @@ In this exercise, you will be implementing multiple SAP Notes in a single batch 
 
     Click on the Ok button in the pop-up to schedule the job.
 
-   	![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/02942442-1dc0-463b-8ecc-df44f5bfa1b4)
+   	![ex_01_02](EX2_10_4.png)
 
     
 
-13.	You have just created a Batch Implementation job!
+11.	You have just created a Batch Implementation job!
 
     A pop-up confirming the action with the job details will be shown. Click on the ‘Go to Batch Dashboard’ button in the pop-up. This will navigate to the batch dashboard where you will find the status and results of the job that you have scheduled.
 
-    ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/67415c3e-1cb9-47e5-8a6b-969f8dc8be05)
+    ![ex_01_02](EX2_11.png)
 
     
 
-14.	The job can take a couple of minutes to complete. You can use the ‘refresh’ button to update the status in the Batch Dashboard.
+12.	The job can take a couple of minutes to complete. You can use the ‘refresh’ button to update the status in the Batch Dashboard.
 
    	Once the job is complete , you can continue with the next exercise: [Viewing the Implementation Results](../ex2/README.md#exercise-22-viewing-the-implementation-results).
 
