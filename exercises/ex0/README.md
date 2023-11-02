@@ -22,9 +22,17 @@ In this exercise, you will be creating the connection to the test system in SAP 
     Instance: 00	
     System ID: TE1  --> 
 
-4.  You would have received the system details. Fill the details into the Server, Instance and System ID fields.    
+4.  You would have received the application server details. Fill the details here along with Instance and System ID fields.
+    >Description: SAP_NOTES_HANDS_ON
 
-    ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/8aae3417-484f-432c-a37e-733de78e1322)
+    >Instance: 00	
+    
+    >System ID: TE1
+
+    <img width="481" alt="MicrosoftTeams-image (4)" src="https://github.com/SAP-samples/teched2023-DT261/assets/144778626/845936e6-ae94-4ed0-8039-b0f4dc90d08e">
+
+
+   <!-- ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/8aae3417-484f-432c-a37e-733de78e1322) -->
 
  
 
