@@ -97,7 +97,7 @@ At the beginning of this activity, you will make the SNOTE up to date.
 
     ![ex_01_02](images/14.png)
 
-    These are the SAP Notes needed in your system to make the SNOTE up to date. From this screen you can read it as out of 3 SAP Notes, currently 1 SAP Note is required to make your SNOTE up to date. All the action needed SAP Notes will be with status .
+    These are the SAP Notes needed in your system to make the SNOTE up to date. From this screen you can read it as out of 3 SAP Notes, currently 1 SAP Note is required to make your SNOTE up to date. All the action needed SAP Notes will be with status ![ex_01_02](images/100.png).
 
     ![ex_01_02](images/15.png)
 
@@ -157,7 +157,7 @@ Here you will be performing any Manual activities mentioned by SAP for the compl
 
     ![ex_01_02](images/24.png)
 
-6.	Input the Report Name N_PREPARTION_APPL and Click on Execute 
+6.	Input the Report Name N_PREPARTION_APPL and Click on Execute ![ex_01_02](images/101.png)
 .
 
     ![ex_01_02](images/25.png)
@@ -222,7 +222,7 @@ Here you will get an overview of all the SAP Notes needed for the application an
 6.   You can now close the browser window and go back to Note Analyzer Screen.
 
 7.   Observe the icon Changes in Action Column. Hover over each icon to get the Tool Tip.
-     First two SAP Notes are with Action Implement ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/b56b76aa-6232-4647-9cce-86b564012d9a)
+     First two SAP Notes are with Action Implement ![ex_01_02](images/102.png)
   as these are already downloaded to the System.
 
      ![ex_01_02](images/36.png)
