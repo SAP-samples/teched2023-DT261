@@ -111,7 +111,7 @@ In the previous steps, you have scheduled a job which will implement SAP Notes. 
 
 1.	At the end of the previous step, you would have navigated to the ‘SAP Notes Batch Identification/Implementation Dashboard’. You will find the job details with a description matching what you have provided in the previous step. Locate the Run for Schedule type ‘Note implementation’. You will find a button ‘Implementation Result’ corresponding to this Run. Click on the button.
 
-    ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/e2b42fe5-f402-4292-adb8-b2d0c0cc733a)
+    ![ex_01_02](images/EX22_1.png)
 
 
 
@@ -125,7 +125,7 @@ In the previous steps, you have scheduled a job which will implement SAP Notes. 
 
      Click on the button ‘Note Log’ to view the implementation logs of the SAP Note.
 
-     ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/4169e821-b657-417a-9661-a3921278c1b6)
+     ![ex_01_02](images/Ex22_2.png)
 
 
 
@@ -137,21 +137,21 @@ In the previous steps, you have scheduled a job which will implement SAP Notes. 
 
     Once done close the pop-up for Note Batch Implementation Logs.
  
-    ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/64aa169c-c81f-4265-a171-879776c8e9f8)
+    ![ex_01_02](images/EX22_3.png)
 
 
 
 
 4.	Keeping the checkbox for the same SAP Note selected, click on button ‘Object List’. This will show the list of objects processed by the SAP Note along with its simulation results.
 
-     ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/bc1c16f6-29af-4e1f-9de0-e744798f2cfb)
+     ![ex_01_02](images/EX22_4.png)
 
 
 
 
 5.	Observe the results. This will be the object generating report created during the Note implementation.
 
-     ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/45729576-cb04-4d3c-9022-15e8e118b9cb)
+     ![ex_01_02](images/EX22_5.png)
 
 
      Once done close the pop-up for SAP Note Batch Implementation Results.
@@ -159,7 +159,7 @@ In the previous steps, you have scheduled a job which will implement SAP Notes. 
 
 6.	To view the application logs for the object generating report execution, choose the button ‘Display Application Log’ next to the relevant SAP Note.
 
-    ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/d39b5c9a-25cf-486a-b869-ea2bc406b30c)
+    ![ex_01_02](images/EX22_6.png)
 
 
 
@@ -169,7 +169,7 @@ In the previous steps, you have scheduled a job which will implement SAP Notes. 
      >This will contain all the objects created/modified during the report execution which happened in the same background job. You can notice that the object generating report name is also mentioned in the column ‘Program’.
 
 
-     ![image](https://github.com/SAP-samples/teched2023-DT261/assets/144778626/2113f450-a5d3-4a04-b714-dc2cdb0b647c)
+     ![ex_01_02](images/EX22_7.png)
 
  
 
